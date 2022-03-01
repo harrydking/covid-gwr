@@ -14,4 +14,6 @@ In conclusion, analysis of the results provides insight into the spatial variati
 
 ## Useful Links
 
+UK COVID-19 Dashboard - https://coronavirus.data.gov.uk/
+
 MGWR Windows Application - https://sgsup.asu.edu/sparc/multiscale-gwr
