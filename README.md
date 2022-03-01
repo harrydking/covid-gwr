@@ -11,3 +11,7 @@ From the initial fifteen socioeconomic, demographic and health variables, two va
 Population over 80, emergency hospital admissions, limiting disability and population non-white were found to be the top four statistically significant positive determinants of COVID-19 mortality rate by the OLS and GWR models. Population non-white, incidence of lung cancer, population density and IMD score were found to be the top four statistically significant positive predictors in the MS-GWR.
 
 In conclusion, analysis of the results provides insight into the spatial variation in the relationship between COVID-19 mortality and socioeconomic, demographic and health factors. Similar techniques could provide useful insights for decision makers. Furthermore, this investigation highlighted how choice of spatial model can influence final results.
+
+## Useful Links
+
+MGWR Windows Application - https://sgsup.asu.edu/sparc/multiscale-gwr
